@@ -1,0 +1,82 @@
+Chud Bot Terms of Service
+Effective Date: October 19, 2026
+Last Updated: October 19, 2026
+1. Acceptance of Terms
+Welcome to Chud Bot (“the Bot”). These Terms of Service (“Terms”) govern access to and use of Chud Bot on Discord.
+By inviting, using, or interacting with the Bot, you agree to these Terms. If you do not agree, you must stop using the Bot.
+If you add the Bot to a Discord server, you confirm that you have the authority to do so and to configure its permissions.
+2. Services and Features
+Chud Bot is a custom Discord bot intended to provide moderation and related server-management functionality.
+Its features may include:
+Automated moderation (automod).
+Moderation commands.
+Warnings and other moderation actions.
+Server-specific settings and configuration.
+Additional utility or custom features introduced in future updates.
+Features may change, be added, suspended, or removed as development progresses.
+Implementation note: Features that have not yet been coded and tested should not be advertised as currently available.
+3. Acceptable Use
+You agree not to use Chud Bot to:
+Violate Discord's Terms of Service or Community Guidelines.
+Harass, threaten, exploit, or target other users.
+Facilitate scams, phishing, spam, or other deceptive activity.
+Exploit bugs or vulnerabilities or attempt to compromise the Bot.
+Interfere with the Bot's operation or infrastructure.
+Use the Bot to facilitate illegal activity.
+Abuse commands or permissions to disrupt Discord servers or their members.
+You must use Chud Bot in compliance with applicable laws and Discord's rules.
+4. Moderation and Server Administration
+Chud Bot may execute moderation actions based on authorized commands or configured automod rules.
+Server owners and administrators are responsible for:
+Configuring the Bot appropriately.
+Assigning permissions carefully.
+Reviewing automod settings and enforcement behavior.
+Ensuring their use of the Bot complies with Discord's rules and applicable laws.
+Automated moderation can make mistakes, and moderation outcomes may depend on the rules and permissions configured by server administrators.
+Server administrators should review important moderation decisions and correct mistakes where appropriate.
+To the extent permitted by applicable law, the developer is not responsible for independent moderation decisions made by server owners or administrators.
+5. Permissions and Access
+Chud Bot requires certain Discord permissions to provide its features. The permissions needed will depend on which features are implemented and enabled.
+Server administrators should grant only the permissions reasonably necessary for their intended use of the Bot.
+The Bot's ability to perform actions may be limited by Discord permissions, role hierarchy, platform restrictions, or technical failures.
+Users must not attempt to bypass permission checks or obtain unauthorized access to the Bot's administrative features.
+6. Privacy and Data Handling
+Chud Bot's handling of information is described in its Privacy Policy.
+The Bot is intended to process message content only as needed for automod and moderation commands. Its final data storage, retention, and hosting arrangements remain subject to implementation decisions.
+Users and server administrators should review the Privacy Policy to understand the Bot's intended data practices.
+Implementation note: The Privacy Policy must accurately reflect the deployed Bot before public launch.
+7. Availability and Updates
+Chud Bot is provided on an “as available” basis. Continuous availability, uninterrupted operation, and error-free performance are not guaranteed.
+The Bot may become temporarily unavailable because of maintenance, updates, hosting issues, Discord outages, or other circumstances.
+The developer may modify, suspend, or discontinue the Bot or any feature at any time.
+8. Disclaimer of Warranties
+To the maximum extent permitted by applicable law, Chud Bot is provided “as is” and “as available,” without warranties of any kind, whether express or implied.
+The developer does not guarantee that the Bot will prevent every instance of spam, detect every rule violation, execute every command successfully, or meet every user's expectations.
+Users are responsible for determining whether the Bot is appropriate for their needs.
+9. Limitation of Liability
+To the maximum extent permitted by applicable law, the developer will not be liable for indirect, incidental, special, consequential, or punitive damages arising from the use of, inability to use, or reliance on Chud Bot.
+This includes losses arising from service interruptions, moderation errors, data loss, or unauthorized access, to the extent such liability may legally be limited.
+Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited.
+10. Third-Party Services
+Chud Bot operates through Discord and may rely on third-party infrastructure or services.
+Your use of Discord remains subject to Discord's applicable terms and policies.
+The developer does not control Discord's platform, third-party hosting providers, or external service availability and is not responsible for circumstances outside the developer's reasonable control.
+11. Suspension and Termination
+The developer may restrict or terminate access to Chud Bot when reasonably necessary to address abuse, security risks, violations of these Terms, or operational concerns.
+You may stop using the Bot at any time by ceasing to interact with it or removing it from your server.
+Termination of access does not automatically delete information that may already have been stored. Any applicable deletion requests are handled under the Privacy Policy and relevant law.
+12. Changes to These Terms
+These Terms may be updated as Chud Bot develops.
+The latest version will be published with an updated effective date. Continued use after changes take effect constitutes acceptance of revised Terms to the extent permitted by applicable law.
+Where required, additional notice or consent will be provided.
+13. Governing Law
+These Terms are subject to applicable law. The specific governing jurisdiction has not yet been designated.
+Nothing in these Terms is intended to remove rights that users have under mandatory applicable law.
+Implementation note: The developer should identify the appropriate governing jurisdiction before publication and obtain legal advice if necessary.
+14. Contact
+For questions or concerns regarding these Terms, contact the developer through the official Chud Bot support channel once it has been established.
+Support contact: Not yet provided.
+Implementation note — required before launch: Add a working support or contact method.
+
+By using Chud Bot, you acknowledge that you have had the opportunity to read and understand these Terms of Service.
+
