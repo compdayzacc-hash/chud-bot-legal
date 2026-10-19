@@ -1,0 +1,79 @@
+Chud Bot Privacy Policy
+Effective Date: October 19, 2026
+Last Updated: October 19, 2026
+1. Introduction
+This Privacy Policy explains how Chud Bot (“the Bot”) may collect, process, use, and store information when users interact with it on Discord.
+Our goal is to collect only the information reasonably necessary to operate Chud Bot, provide moderation features, maintain security, and troubleshoot technical problems.
+Implementation note: Chud Bot's database and hosting arrangements have not yet been finalized. The exact information retained and the length of time it is stored will depend on the final implementation.
+2. Information Chud Bot May Process
+Depending on the features enabled, Chud Bot may process the following information:
+A. Discord Identifiers
+Discord user IDs.
+Discord server IDs.
+Channel IDs when required for moderation commands.
+Role IDs when required for permission checks or server configuration.
+These identifiers may be used to identify the relevant user, server, channel, or role when executing commands.
+B. Moderation Information
+When moderation features are used, Chud Bot may process:
+Warnings and other moderation actions.
+The user IDs of affected members.
+The IDs of moderators initiating actions.
+Moderation reasons supplied through commands.
+Timestamps and moderation case identifiers.
+Settings used to configure automated moderation.
+Implementation note: Whether moderation records are permanently stored, temporarily cached, or retained only while the Bot is running has not yet been determined.
+C. Message Content
+Chud Bot is intended to process message content only when necessary for automated moderation (automod) or moderation commands.
+For example, if an automod rule detects spam or prohibited content, the Bot may inspect the relevant message to determine whether an action is required.
+Chud Bot is not currently intended to operate as a general-purpose message surveillance or message-logging service.
+Unless a future feature is explicitly introduced and disclosed, the intended scope does not include maintaining a general archive of ordinary conversations or deleted messages.
+Implementation note: Actual access to message content depends on the Bot's code, Discord permissions, and applicable Discord privileged-intent requirements.
+D. Technical and Error Information
+The Bot may process limited technical information, including error messages, command execution details, and diagnostic logs, to maintain reliability and investigate problems.
+Implementation note: The contents of diagnostic logs and their retention periods will depend on the final hosting and logging configuration.
+3. How Information Is Used
+Information processed by Chud Bot may be used to:
+Execute commands requested by users or authorized moderators.
+Detect and respond to spam or other activity covered by configured automod rules.
+Apply moderation actions when authorized and configured.
+Check permissions and enforce server-specific settings.
+Maintain moderation records if that feature is implemented.
+Troubleshoot errors and improve reliability.
+Protect the Bot and its infrastructure against abuse.
+Chud Bot is not intended to sell personal information.
+4. Data Storage and Retention
+Chud Bot's database solution and hosting provider have not yet been selected.
+Depending on the final implementation, information may be held temporarily in memory, stored in a database, or recorded in operational logs.
+We intend to retain information only for as long as reasonably necessary for the purposes described in this policy, subject to applicable legal obligations.
+Implementation note — required before launch: The developer must determine which information is actually stored, where it is stored, who can access it, and how long it is retained. This section must be updated to reflect those decisions.
+5. Data Sharing and Third-Party Services
+Chud Bot relies on Discord to provide its core functionality. Depending on the final deployment, it may also rely on hosting providers, database services, or other infrastructure providers.
+Information may be processed by these services as needed to operate the Bot.
+We do not intend to sell or rent users' personal information. Information may also be disclosed when reasonably necessary to protect the Bot or its users, address security incidents, or comply with applicable legal obligations.
+Implementation note: The identities and privacy practices of any hosting or database providers cannot be specified until those services are selected.
+6. Security
+We intend to take reasonable measures to protect information processed by Chud Bot from unauthorized access, disclosure, alteration, or destruction.
+Depending on the final implementation, these measures may include restricting database access, protecting authentication credentials, limiting access to logs, and keeping the Bot's software updated.
+No online service can be guaranteed completely secure.
+Implementation note: Security measures must be implemented and verified in the actual deployment; this policy is not a claim that any particular measure is already active.
+7. User Requests and Data Deletion
+Users may contact the developer to ask questions about information associated with their use of Chud Bot or to request access to, correction of, or deletion of information where applicable.
+Requests will be handled in accordance with applicable law. Some information may need to be retained for legitimate security, operational, or legal reasons.
+Removing the Bot from a server does not necessarily delete information that may already have been stored.
+Implementation note: A verified contact method and a practical process for locating and deleting stored records must be established before launch if the Bot retains user information.
+8. Children's Privacy
+Chud Bot is intended for people who are permitted to use Discord under its applicable age requirements and the laws that apply to them.
+We do not knowingly seek to collect personal information from children in violation of applicable law. Concerns about information collected improperly may be reported to the developer once contact details are published.
+9. International Data Processing
+If Chud Bot uses hosting or database providers located in other countries, information may be processed or stored outside a user's country of residence.
+Any required safeguards will depend on the services selected and the applicable privacy laws.
+Implementation note: Hosting locations have not yet been decided.
+10. Changes to This Policy
+This Privacy Policy may be updated when Chud Bot gains features or its data practices change.
+The latest version will be published with a revised effective date. Where required by law, appropriate notice or consent will be provided for changes.
+11. Contact
+For privacy questions or requests, contact the developer through the official Chud Bot support channel once it has been established.
+Support contact: Not yet provided.
+Implementation note — required before launch: Add a working contact method, such as a support server invite or dedicated contact email, and ensure that privacy requests can be received.
+
+By using Chud Bot, users acknowledge that they have had the opportunity to review this Privacy Policy.
